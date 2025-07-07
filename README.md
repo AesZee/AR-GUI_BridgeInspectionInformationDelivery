@@ -62,7 +62,6 @@ This repository contains the complete Unity + Needle Engine project for an AR-ba
 | Component | Description |
 |----------|-------------|
 | `EverywhereConfigurator` | Controls system logic and connects triggers to UI content. |
-| `SpotSwitcher` | Defines trigger areas linked to defect spots. |
 | `LoD1 (LoD Switcher)` | Manages Level of Detail content per trigger state. |
 
 ### Customization
